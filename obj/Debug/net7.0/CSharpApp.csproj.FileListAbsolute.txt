@@ -1,0 +1,15 @@
+/home/sne/.ecole/CSharpApp/bin/Debug/net7.0/CSharpApp
+/home/sne/.ecole/CSharpApp/bin/Debug/net7.0/CSharpApp.deps.json
+/home/sne/.ecole/CSharpApp/bin/Debug/net7.0/CSharpApp.runtimeconfig.json
+/home/sne/.ecole/CSharpApp/bin/Debug/net7.0/CSharpApp.dll
+/home/sne/.ecole/CSharpApp/bin/Debug/net7.0/CSharpApp.pdb
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/CSharpApp.csproj.AssemblyReference.cache
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/CSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/CSharpApp.AssemblyInfoInputs.cache
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/CSharpApp.AssemblyInfo.cs
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/CSharpApp.csproj.CoreCompileInputs.cache
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/CSharpApp.dll
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/refint/CSharpApp.dll
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/CSharpApp.pdb
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/CSharpApp.genruntimeconfig.cache
+/home/sne/.ecole/CSharpApp/obj/Debug/net7.0/ref/CSharpApp.dll
